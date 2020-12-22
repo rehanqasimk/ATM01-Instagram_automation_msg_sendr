@@ -57,7 +57,7 @@ driver.get('https://www.instagram.com/')
 
 
 # login to the account
-username = 'rehanqasimk'
+username = 'rehanqasim6'
 password = 'GOOGLEyoutube1,'
 
 #reading the file and extracting the accounts
