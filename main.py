@@ -32,19 +32,7 @@ class color:
     END = '\033[0m'
 
 
-# In[8]:
 
-
-# 03002224315
-# 03421230377
-
-# saad credentials
-
-# 'kevin82735pr'
-# 'testing123'
-
-
-# In[9]:
 
 
 
